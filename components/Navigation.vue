@@ -161,7 +161,8 @@ nav {
 .shrink {
   nav {
     padding: 0.3rem;
-    background: rgba(230, 208, 194, 0.92);
+    /*     background: rgba(230, 208, 194, 0.92); */
+    background: red;
     border-bottom: rgba(221, 221, 221, 0.28) 1px solid;
   }
   .top__information--block {
